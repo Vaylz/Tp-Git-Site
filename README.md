@@ -1,6 +1,14 @@
 # Mon site pour nom TP-Git-site
 
-##Changelog
+## CHANGELOG
+
+### version 4 : Ajout d'un nouvelle page
+
+### version 3 : modification de titre
+
+### version 2 : Ajout d'image
+
+### version 1 : First commit
 
 ## Pour le cloner
 ```sh
